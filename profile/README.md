@@ -7,6 +7,6 @@
 ## Desenvolvedores
 
 - **Brendo**
-- **Eduardo**
+- **Luis**
 - **Paulo**
 - **Prince**
