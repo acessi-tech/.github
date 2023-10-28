@@ -1,4 +1,4 @@
-# Tusk
+# Acessi Tech
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Links
@@ -8,5 +8,5 @@
 
 - **Brendo**
 - **Eduardo**
-- **Jean**
--  **Prince**
+- **Paulo**
+- **Prince**
