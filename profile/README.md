@@ -18,6 +18,11 @@ O Projeto AcessiTech tem como objetivo criar um instrumento inovador para auxíl
 
 ## Links
 
+## Nossos Repositórios
+[Arduino](https://github.com/acessi-tech/arduino)
+
+[Raspberrypi](https://github.com/acessi-tech/raspberrypi)
+
 
 ## Desenvolvedores
 
