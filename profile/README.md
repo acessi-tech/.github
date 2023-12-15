@@ -1,7 +1,7 @@
 # Acessi Tech ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 A empresa AcessiTech está desenvolvendo um projeto inovador para aprimorar o ensino básico, por meio da modificação de um ábaco tradicional. Este ábaco modificado incluirá um módulo de som que verbaliza o resultado quando as argolas são movidas. O projeto envolve a criação de um circuito resistivo nos pilares do ábaco, com uma unidade de controle principal responsável por gerenciar os sensores de corrente e a unidade de controle de som. O objetivo final é fornecer uma ferramenta educacional que combina a simplicidade do ábaco com feedback auditivo, tornando o aprendizado mais eficaz no ensino básico.
 
-## Projeto AcessiTech - Ábaco Modificado
+## Projeto AcessiTech - Ábaco Interativo
 
 O Projeto AcessiTech tem como objetivo criar um instrumento inovador para auxílio pedagógico no ensino básico, por meio da modificação de um ábaco tradicional. Este ábaco modificado incluirá um módulo de som que verbaliza o resultado quando as argolas são movidas. O projeto envolve a criação de um circuito resistivo nos pilares do ábaco, com uma unidade de controle principal responsável por gerenciar os sensores de corrente e a unidade de controle de som.
 
